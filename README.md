@@ -1,0 +1,1 @@
+# This is a static clone of Amazon's homepage layout built using HTML & CSS. Built for practice and UI design improvement.
